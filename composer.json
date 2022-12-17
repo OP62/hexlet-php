@@ -1,8 +1,9 @@
 {
-    "name": "amirov66/hexlet-php",
+    "name": "amirov66/hexlet-php1",
+    "description": "My new project",
     "autoload": {
         "psr-4": {
-            "Amirov66\\HexletPhp\\": "src/"
+            "Amirov66\\HexletPhp1\\": "src/"
         }
     },
     "authors": [
